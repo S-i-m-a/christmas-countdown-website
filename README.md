@@ -32,8 +32,6 @@ christmas-countdown-website/
 │ └── christmas-pic-44.jpg
 └── README.md
 
-markdown
-Copy code
 
 ## Features
 - Real-time countdown to Christmas
